@@ -1,51 +1,26 @@
 .logo {
   display: block;
-  width: 300px;
-  margin: 50px auto;
+  width: 150px;
 }
 .infos {
-	padding-top: 90px
+	padding-top: 80px
 }
-#background {
-		background-image: url("../images/background.jpg");
-
-		width: 60%;
-		height:	60%;
-}
-
-.kleidi{
-		font-size: 100px;
-		font-family: 'Archivo Black', sans-serif;
-
-
+.jumbotron {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	padding-top: 300px;
 }
 
-.dispo {
-		font-size: 35px;
-		font-family: 'Archivo Black', sans-serif;
-
-
+h1 {
+	font-size: 100px;
+	font-family: 'Archivo Black', sans-serif;
 }
 
-
-.non{
-font-family: 'Chivo', sans-serif;
-
+h2 {
+	font-size: 35px;
+	font-family: 'Archivo Black', sans-serif;
+	max-width: 650px
 }
-
-
-.image1{
-	padding: 50px;
-	width: 70%;
-	height: 70%;
-
-}
-
-.footer {
-
-	color: grey;
-	width: 100%;
-	height: 100px;
-
-
+h2 span {
+	font-family: 'Chivo', sans-serif;
 }
