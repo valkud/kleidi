@@ -1,6 +1,6 @@
 .logo {
   display: block;
-  width: 150px;
+  width: 120px;
 }
 .infos {
 	/*padding-top: 80px;*/
@@ -28,12 +28,6 @@ h2 span {
 	font-family: 'Chivo', sans-serif;
 }
 
-.page-footer {
-
-background-color: grey;
-
-
-}
 
 #about{
 	padding-bottom: 100px;
@@ -43,3 +37,84 @@ background-color: grey;
 
 
 }
+#myFooter {
+	background-color: #373a48;
+	color:white;
+}
+
+#myFooter .footer-copyright{
+	background-color: #383737;
+	padding-top:3px;
+	padding-bottom:3px;
+	text-align: center;
+}
+
+#myFooter .footer-copyright p{
+	margin:10px;
+	color: #ccc;
+}
+
+#myFooter ul{
+	list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+
+}
+
+#myFooter h5{
+	font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter a{
+	color:#d2d1d1;
+	text-decoration: none;
+}
+
+#myFooter a:hover, #myFooter a:focus{
+	text-decoration: none;
+	color:white;
+}
+
+#myFooter .myCols{
+	text-align: center;
+}
+
+#myFooter .social-networks{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 38px;
+}
+
+
+.test {
+	padding-left: 29%;
+
+
+}
+h5{	font-family: 'Chivo', sans-serif;
+
+
+}
+
+.bordeaux {
+
+
+	width: 80px;
+	height: 80px;
+}
+
+
+
+
+	#myFooter img {
+		padding: 5px;
+}
+
+
+/* CSS used for positioning the footers at the bottom of the page. */
+/* You can remove this. */
+
+
