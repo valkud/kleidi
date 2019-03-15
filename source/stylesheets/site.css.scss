@@ -22,7 +22,11 @@
 
 
 
-
+.kleidi {
+	position: relative;
+  top: 25vh;
+  padding-top: 10vh;
+}
 
 .logo {
   display: block;
@@ -36,8 +40,9 @@
 .jumbotron {
 	background-image: url("../images/background.jpg");
 	background-size: cover;
-	padding-top: 300px;
-	padding-bottom: 210px;
+width: 100%;
+height: 100vh;
+
 }
 
 h1 {
@@ -116,7 +121,8 @@ h2 span {
 
 
 .test {
-	padding-left: 29%;
+	justify-content: center;
+	text-align: center;
 
 
 }
